@@ -1,0 +1,7 @@
+1632286981395	Rename package 'com.p1.BootMysql1'
+1632287006322	Rename package 'com.p1.BootMysql1.Controller'
+1632287032795	Rename type 'BootMysql1Application'
+1632287052952	Delete element
+1632287816059	Rename type 'ProductRepository'
+1632287856257	Rename type 'ProductService'
+1632288267562	Rename type 'ProductController'

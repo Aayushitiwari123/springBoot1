@@ -1,0 +1,5 @@
+package HelloEureka.HelloEurekaClient;
+
+public class HelloController {
+
+}

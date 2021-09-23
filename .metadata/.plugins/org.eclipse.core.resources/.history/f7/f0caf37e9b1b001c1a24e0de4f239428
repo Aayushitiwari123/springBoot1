@@ -1,0 +1,5 @@
+server.port=8261
+eureka.server.register-with-eureka=false
+eureka.server.fetch-registry=false  
+
+
